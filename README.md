@@ -21,3 +21,8 @@
 
 1、完善了$\mathcal{F}_{STATE}$功能，精简了$\mathcal{F}_{TIME}$。
 2、更新了$\mathcal{F}_{TBFT}$描述，设定了参数初始值，并修改了轮间同步机制。
+
+## V5
+
+1、优化框架图，完善$\mathcal{F}_\text{COMMIT}$和$\mathcal{F}_\text{BC}$功能。
+2、细化$\mathcal{F}_{TBFT}$，改进提案处理，添加锁定机制，优化节点同步。
