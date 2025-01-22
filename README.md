@@ -26,3 +26,9 @@
 
 1、优化框架图，完善$\mathcal{F}_\text{COMMIT}$和$\mathcal{F}_\text{BC}$功能。
 2、细化$\mathcal{F}_{TBFT}$，改进提案处理，添加锁定机制，优化节点同步。
+
+
+
+## V6
+1、优化框架图，新增匿名通信通道功能$\mathcal{F}_\text{Ch}$。
+2、细化$\mathcal{F}_{TBFT}$，初步完成协议$\mathcal{\pi}_{TBFT}$的形式化建模。
